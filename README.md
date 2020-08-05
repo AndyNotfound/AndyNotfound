@@ -1,20 +1,19 @@
 <img align="right" width="400" src="02.png">
 
 
-# Hi, I'm Alejandro :chicken:
+# Hi, I'm Andy Silitonga.
 
-Full-Stack | Software engineer :robot:. (In progress)
+Rookie FrontEnd Developer | IT Support
 
-Holberton School Student. :man_technologist:
+I'm Just An Ordinary Guy With Intrest In Tech.
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+Designing | Reading | Programming
 
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
-
+- I Love Designing Something Beautiful
+- I Love Reading New Knowledge And New Things
+- I Love Programming 
 
 ## Social media :mailbox_with_no_mail:
 
