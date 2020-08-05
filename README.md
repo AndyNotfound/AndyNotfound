@@ -11,9 +11,9 @@ I'm Just An Ordinary Guy With Intrest In Tech.
 
 Designing | Reading | Programming
 
-- I Love Designing Something Beautiful
-- I Love Reading New Knowledge And New Things
-- I Love Programming 
+- I Like To Design Something Beautiful
+- I Like Reading And Learning New Things
+- I Like Programming 
 
 ## Social media :mailbox_with_no_mail:
 
