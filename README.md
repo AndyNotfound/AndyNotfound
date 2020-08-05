@@ -1,4 +1,4 @@
-<img align="right" width="400" src="02.png">
+<img align="right" width="400" src="https://1.bp.blogspot.com/-Ra2ALUd1y8U/XysCFDHkDiI/AAAAAAAAEw0/3tHf3QA0w-0mlWSNBF8emj2xsRVH6yaiwCLcBGAsYHQ/s1000/02.png">
 
 # Hi, I'm Andy Silitonga.
 
