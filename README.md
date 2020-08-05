@@ -1,5 +1,4 @@
 <img align="left" width="400" src="02.png">
-<img align="right" width="250" src="rem.png">
 
 # Hi, I'm Andy Silitonga.
 
