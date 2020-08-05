@@ -8,8 +8,8 @@ Rookie FrontEnd Developer | IT Support
 I'm Just An Ordinary Guy With Intrest In Tech.
 
 ## About Me 
+I'M Intrested On
 
-My Intrest Are
 Designing | Reading | Programming
 
 - I Like To Design Something Beautiful
