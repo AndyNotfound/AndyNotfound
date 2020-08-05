@@ -1,5 +1,5 @@
 <img align="right" width="400" src="02.png">
-<img align="left" width="200" src="rem.png">
+<img align="left" width="250" src="rem.png">
 
 
 # Hi, I'm Andy Silitonga.
