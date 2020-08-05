@@ -3,13 +3,11 @@
 
 # Hi, I'm Andy Silitonga.
 
-Rookie FrontEnd Developer | IT Support
+Rookie FrontEnd Developer | IT Support xD
 
 I'm Just An Ordinary Guy With Intrest In Tech.
 
 ## About Me 
-I'M Intrested On
-
 Designing | Reading | Programming
 
 - I Like To Design Something Beautiful
