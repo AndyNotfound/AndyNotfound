@@ -1,5 +1,12 @@
-### Hi there 👋
-![undraw_code_typing_re_p8b9](https://user-images.githubusercontent.com/40969170/166476776-f7bbbc08-76c2-4002-8fa7-6af5d65392a9.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3> Hi I'm a Frontend Developer, UI Designer. </h3>
+<p align="left">
+
+- 🔭 I’m exploring software development cycle.
+- 🌱 Exploring various UI design idea.
+- ⚡ In my free time I watch documentation, crashcourses, and films. I also read books, and articles.
+  <br><br>
+  <a href="https://www.linkedin.com/in/gohand-silitonga-263025239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a><br><br>
 <!--
 **AndyNotfound/AndyNotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
