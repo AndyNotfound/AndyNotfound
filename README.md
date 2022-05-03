@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![undraw_code_typing_re_p8b9](https://user-images.githubusercontent.com/40969170/166476776-f7bbbc08-76c2-4002-8fa7-6af5d65392a9.svg)
 <!--
 **AndyNotfound/AndyNotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
