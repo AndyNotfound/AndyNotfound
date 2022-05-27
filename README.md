@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3> Hi I'm a Frontend Developer, UI Designer. </h3>
 <p align="left">
 
