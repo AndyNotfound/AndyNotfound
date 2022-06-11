@@ -1,22 +1,8 @@
-<h3> Hi I'm a Frontend Developer, UI Designer. </h3>
-<p align="left">
-
-- 🔭 I’m exploring software development cycle.
-- 🌱 Exploring various UI design idea.
-- ⚡ In my free time I watch documentation, crashcourses, and films. I also read books, and articles.
-  <br><br>
-  <a href="https://www.linkedin.com/in/gohand-silitonga-263025239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a><br><br>
-<!--
-**AndyNotfound/AndyNotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+<h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>
+<h3 align="center">Frontend Developer, UI Designer</h3> 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer;Specializing%20In%20user%20interface;1%2B%20years%20of%20coding%20experience;Invariably%20learning%20new%20stuff;Exploring%20new%20UI%20design%20ideas.&center=true&width=380&height=45"></a>
+</p>
+<br><br><br>
+<a href="https://www.linkedin.com/in/gohand-silitonga-263025239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
