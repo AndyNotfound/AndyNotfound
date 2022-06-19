@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=8&hide_border=true&bg_color=1F222E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=9&hide_border=true&bg_color=1F222E" />
 <a href="https://www.linkedin.com/in/gohand-silitonga-263025239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
