@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AndyNotfound&repo=MERNEcommerce" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&hide_border=true&repo=MERNEcommerce" />
