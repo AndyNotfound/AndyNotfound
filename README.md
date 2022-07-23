@@ -1,4 +1,4 @@
-<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&" /></p>
 
 <h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>
 
