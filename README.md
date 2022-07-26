@@ -2,7 +2,7 @@
 [//]: # (<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>)
 
 [//]: # ("An Image of all \(almost all\) my work, designed on GIMP")
-![rev](https://user-images.githubusercontent.com/40969170/181055546-a92223f5-8277-4226-8f0e-7ada2abf7f56.png)
+![final](https://user-images.githubusercontent.com/40969170/181063452-b4748a79-22c1-49ce-8f97-ec78e326be9f.png)
 
 [//]: # ("Just some simple Header")
 [//]: # (<h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>)
