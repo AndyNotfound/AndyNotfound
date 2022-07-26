@@ -1,4 +1,7 @@
-<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+[//]: # (<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>)
+
+![frontendandy](https://user-images.githubusercontent.com/40969170/181046702-175c4c55-af0c-4737-85bf-781d741865a0.png)
+
 
 <h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>
 
@@ -37,9 +40,8 @@
   </code>&nbsp;
 </div>
 
-<br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=11&hide_border=true&bg_color=1F222E&" />
-<br><br><br>
+[//]: # (<br><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=11&hide_border=true&bg_color=1F222E&" /><br><br><br>)
+<br><br>
 <a href="https://www.linkedin.com/in/gohand-silitonga-263025239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="right" alt="LinkedIn Badge">
 </a>
