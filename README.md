@@ -2,7 +2,7 @@
 [//]: # (<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>)
 
 [//]: # ("An Image of all \(almost all\) my work, designed on GIMP")
-![andy-readme](https://user-images.githubusercontent.com/40969170/181052744-91266059-0c1c-4f79-92db-1e9ddb23d540.png)
+![rev](https://user-images.githubusercontent.com/40969170/181055546-a92223f5-8277-4226-8f0e-7ada2abf7f56.png)
 
 [//]: # ("Just some simple Header")
 [//]: # (<h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>)
@@ -15,7 +15,7 @@
 <div align="center">
 &nbsp;
   <code>
-      <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
+    <img height="30" src="https://user-images.githubusercontent.com/40969170/176788707-7fbb4a06-9885-4b0e-8e9e-540f3d4f880e.png">
   </code>&nbsp;
   <code>
     <img height="30" src="https://user-images.githubusercontent.com/40969170/176788766-df23cb10-d369-4465-ad33-8b81dd6dcaf2.png">
@@ -41,6 +41,12 @@
   <code>
     <img height="25" src="https://user-images.githubusercontent.com/40969170/176791017-da8c3831-e652-4057-95b9-91408376bcb2.png">
   </code>&nbsp;
+  <code>
+    <img height="25" src="https://user-images.githubusercontent.com/40969170/181056189-6550b326-3d05-4d37-bc60-ec671d63b44c.png">
+  </code>&nbsp;
+  <code>
+    <img height="25" src="https://user-images.githubusercontent.com/40969170/181056767-70aabdd2-a5d8-4e57-857a-7b03ae868c5d.png">
+  </code>
 </div>
 
 [//]: # ("This is somekind of statistic presenting what languages I used the most, pulled out from an API endpoint")
