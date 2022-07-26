@@ -1,13 +1,10 @@
 [//]: # (<img alt="Gohand's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AndyNotfound&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>)
 
-![frontendandy](https://user-images.githubusercontent.com/40969170/181046702-175c4c55-af0c-4737-85bf-781d741865a0.png)
+![andy-readme](https://user-images.githubusercontent.com/40969170/181052744-91266059-0c1c-4f79-92db-1e9ddb23d540.png)
 
+[//]: # (<h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>)
 
-<h1 align="center">Hi! I'm Gohand Brilliant Silitonga</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer;Specializing%20in%20user%20interface;1%2B%20years%20of%20coding%20experience;Invariably%20learning%20new%20stuff;Exploring%20new%20UI%20design%20ideas&center=true&width=380&height=45"></a>
-</p>
+[//]: # (<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer;Specializing%20in%20user%20interface;1%2B%20years%20of%20coding%20experience;Invariably%20learning%20new%20stuff;Exploring%20new%20UI%20design%20ideas&center=true&width=380&height=45"></a></p>)
 <br>
 <div align="center">
 &nbsp;
