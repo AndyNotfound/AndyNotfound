@@ -55,6 +55,6 @@
 <br><br>
 
 [//]: # ("A simple link to my LinkedIn account")
-<a href="https://www.linkedin.com/in/gohand-silitonga-263025239/">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="right" alt="LinkedIn Badge">
 </a>
