@@ -53,17 +53,14 @@
 [//]: # ("This is somekind of statistic presenting what languages I used the most, pulled out from an API endpoint")
 <details close="true"> 
   <summary>
-    <h2>GitHub Statistic and Contact Information</h2>
+    <h2>GitHub Statistic</h2>
   </summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=11&hide_border=true&bg_color=1F222E&" />
     <img src="https://github-readme-stats.vercel.app/api?username=AndyNotfound&layout=compact&title_color=F85D7F&icon_color=41b883&text_color=FFFFFF&langs_count=11&hide_border=true&bg_color=1F222E&" />
-    <a href="">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
 </details>
 
 [//]: # ("A simple link to my LinkedIn account")
-[//]: # (<a href="">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" align="right" alt="LinkedIn Badge">
-</a>)
+</a>
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
