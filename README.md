@@ -58,10 +58,10 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&private=true&title_color=F85D7F&langs_count=11&hide_border=true&theme=nord" />
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&private=true&title_color=FE4EBA&langs_count=11&hide_border=true&theme=nord" />
      </td>
      <td>
-      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=AndyNotfound&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=F85D7F" />
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=AndyNotfound&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=FE4EBA" />
      </td>
     </tr>
   </table>
