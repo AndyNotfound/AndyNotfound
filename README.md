@@ -54,9 +54,19 @@
 </p>
 <p align="center">
   <samp>freeTime ? learn(programming) && learn(linux) : watch(anime) || read(manga);</samp>
-</p>
-<br>
+</p><br>
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyNotfound&layout=compact&private=true&title_color=F85D7F&langs_count=11&hide_border=true&theme=nord" />
+     </td>
+     <td>
+      <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=AndyNotfound&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&title_color=F85D7F" />
+     </td>
+    </tr>
+  </table>
+<br><br>
 <samp>
-  <p align="center">do{contact(<a href="">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
+  <p align="center">do{contact(<a href="mailto:Andy.Notfound@gmail.com">Email</a>); peek(<a href="">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
 </samp>
 </details>
