@@ -67,6 +67,6 @@
   </table>
 <br><br>
 <samp>
-  <p align="center">do{contact(<a href="mailto:Andy.Notfound@gmail.com">Email</a>); peek(<a href="">LinkedIn</a>); visit(<a href="">PortfolioWebsite</a>)}</p>
+  <p align="center">do{contact(<a href="mailto:Andy.Notfound@gmail.com">Email</a>); peek(<a href="https://www.linkedin.com/in/lassitudeas/">LinkedIn</a>); visit(<a href="https://gohand-silitonga.vercel.app/">PortfolioWebsite</a>)}</p>
 </samp>
 </details>
