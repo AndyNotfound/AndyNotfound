@@ -6,7 +6,7 @@
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
-<p align="center"><samp>I'm <a href="https://andysilitonga.vercel.app/">Andy Silitonga</a></samp></p>
+<p align="center"><samp>I'm <a href="https://gohand-silitonga.vercel.app/">Gohand Silitonga</a></samp></p>
 <br><br>
 
 <details align="center">
