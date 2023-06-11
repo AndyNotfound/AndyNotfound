@@ -6,9 +6,12 @@
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
-<p align="center"><samp>I'm <a href="https://gohand-silitonga.vercel.app/">Gohand Silitonga</a></samp></p>
+<p align="center"><samp>I'm <a href="https://www.gohand-silitonga.my.id/about">Gohand Silitonga</a></samp></p>
+<br>
+<samp>
+  <p align="center">do{contact(<a href="mailto:Andy.Notfound@gmail.com">Email</a>); peek(<a href="https://www.linkedin.com/in/lassitudeas/">LinkedIn</a>); visit(<a href="https://www.gohand-silitonga.my.id/">PortfolioWebsite</a>)}</p>
+</samp>
 <br><br>
-
 <details align="center">
 <summary><samp>click, explore.</samp></summary>
 <h2></h2>
@@ -24,6 +27,9 @@
     </samp>&nbsp;
     <samp>
       <img height="25" src="https://user-images.githubusercontent.com/40969170/176789828-bf3951f7-2467-4115-a6f8-b90987fc3d82.png">
+    </samp>&nbsp;
+    <samp>
+      <img height="25" src="https://github.com/AndyNotfound/AndyNotfound/assets/40969170/692eece9-5c80-485b-a3e2-d0f4c7381c04">
     </samp>&nbsp;
     <samp>
       <img height="25" src="https://user-images.githubusercontent.com/40969170/176789960-8dbf0402-d92b-430e-9b0a-8ad2eff2743b.png">
@@ -65,8 +71,5 @@
      </td>
     </tr>
   </table>
-<br><br>
-<samp>
-  <p align="center">do{contact(<a href="mailto:Andy.Notfound@gmail.com">Email</a>); peek(<a href="https://www.linkedin.com/in/lassitudeas/">LinkedIn</a>); visit(<a href="https://gohand-silitonga.vercel.app/">PortfolioWebsite</a>)}</p>
-</samp>
+<br>
 </details>
