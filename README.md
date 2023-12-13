@@ -59,7 +59,7 @@
   </samp>
 </p>
 <p align="center">
-  <samp>freeTime ? learn(programming) && learn(linux) : watch(anime) || read(manga);</samp>
+  <samp>freeTime? learn(programming) && learn(linux) : watch(anime) || read(manga);</samp>
 </p><br>
 <table align="center">
   <tr>
